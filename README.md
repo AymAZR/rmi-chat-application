@@ -5,9 +5,9 @@ This repository contains a simple RMI chat application created using Eclipse IDE
 - To run the project, you will need to open 4 Terminal Windows, then in each window go to the /bin directory of the project using the "cd" command.
 
 - In the first Terminal, execute the following command lines :
-  . rmic rmiServer.Server
-  . rmic rmiClient.Client
-  . rmiregistry
+  - rmic rmiServer.Server
+  - rmic rmiClient.Client
+  - rmiregistry
 
 - In the second Terminal, launch the Server Driver using : java rmiServer.ServerDriver
 
